@@ -15,8 +15,7 @@ An additional push button on Arduino's pin1 is used to zero the measurements.
 
 ## Phototransitor Connection
 
-![transistor-phototransistor-common-emitter-circuit-01](https://github.com/sohrab1992/Shutter-Tester/assets/16500641/4a0ea7c0-15e6-4bca-9936-2889c6921faf)
-
+![transistor-phototransistor-common-emitter-circuit-01](https://github.com/sohrab1992/Shutter-Tester/assets/16500641/3dce719f-fac2-40c3-9cbc-07d4775fa793)
 
 ## Dependency
 
